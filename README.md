@@ -1,7 +1,7 @@
 # Spring Boot App mit Kubernetes Proben
 
 Dieses Repository enthält eine Beispiel-Konfiguration für eine Spring Boot-Anwendung, die Liveness, Readiness und Startup-Proben in Kubernetes verwendet.
-
+Zudem wurde ein Gracefule Shutdown implementiert um die Applikation sauber herunterzufahren.
 
 ## Autoren
 
